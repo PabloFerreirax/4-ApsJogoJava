@@ -1,0 +1,21 @@
+"id_fase";"ativo";"ds_fase";"imagem";"seq_fase";"tipofase"
+7;f;"testando";32879;7;3
+9;f;"teste";32881;9;1
+8;t;"O inicio de tudo.
+";32880;8;2
+6;t;"Prologo o inicio do fim.";32878;6;0
+10;t;"Pequena atitude grande futuro.
+";41070;10;0
+11;t;"Misterioso amigo.
+";41072;11;0
+12;t;"Nos rastros do malware";41074;12;0
+13;t;"Combate Cavalo de troia.";41075;13;1
+14;t;"O guardião do Submundo";41077;14;2
+15;t;"Abertura do portão";41080;15;0
+16;t;"O submundo dos bancos de dados";41084;16;0
+17;t;"O código sagrado";41085;17;0
+18;t;"A Batalha final";41086;18;1
+19;t;"Final Bom";41090;19;3
+20;t;"Final Ruim";41091;20;3
+21;t;"Final Perfeito";41093;21;3
+22;f;"teste dasda";41096;22;3

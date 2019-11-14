@@ -1,0 +1,36 @@
+"id_resposta";"msg_pergunta";"ponto_resposta";"text_resposta";"id_fase"
+97;"MULHER: Parece que nada mudou... mas siga em frente";0;"A) Pelo menos um bloco catch ou um bloco finally deve seguir imediatamente o bloco try.";12
+98;"MULHER: Parece que nada mudou... mas siga em frente";0;"B) Se houver múltiplos blocos catch correspondentes quando uma exceção ocorrer, somente o primeiro é executado.";12
+99;"MULHER: Uau você conseguiu, siga em frente e derrote o Malware";1;"C) Todas as classes de exceção do Java herdam direta ou indiretamente da classe error";12
+100;"MULHER: Parece que nada mudou... mas siga em frente";0;"D) O bloco finally é o meio preferido de liberar recursos para impedir vazamentos de recursos.";12
+114;"CELESTE se sacrifica e JEAN abre o portão...";0;"A) Classes abstratas, que podem possuir construtores e serem instanciadas diretamente.";15
+115;"CELESTE se sacrifica e JEAN abre o portão...";0;"B) interfaces, que podem possuir constantes, variáveis e atributos privados.";15
+116;"Você ajuda CELESTE e JEAN abre o portão...";1;"C) classes abstratas, que podem conter métodos implementados e assinaturas de métodos sem implementação.";15
+117;"CELESTE se sacrifica e JEAN abre o portão...";0;"D) Interfaces, que podem possuir construtores e serem instanciadas diretamente.";15
+118;"VOZ MISTERIOSA: NAO FAÇA ISSO MESTREEEEEEEEEEEEEEEEEEEEEEE!";1;"System.out.println(""Você esta livre"");";14
+119;"Uau, você conseguiu siga em frente.";1;"A) String apsJogo [];";11
+120;"É você errou, bom não importa... siga em frente.";0;"B) apsJogo [] String;";11
+121;"É você errou, bom não importa... siga em frente.";0;"C) [] String apsJogo;";11
+122;"É você errou, bom não importa... siga em frente.";0;"D) System.out.println(""Vetor apsJogo []"");";11
+127;"Você não conseguiu, mas siga em frente";0;"A) métodos sobrecarregados podem possuir diferentes tipos de retorno";10
+128;"Você não conseguiu, mas siga em frente";0;"B) métodos declarados com o modificador final não podem ser sobrescritos.";10
+129;"Você a salvou, siga em frente";1;"C) um método sobrescrito pode ter sua visibilidade reduzida na subclasse.";10
+130;"Você não conseguiu, mas siga em frente";0;"D) métodos sobrecarregados devem possuir nomes iguais.";10
+135;"FABRÍCIO: Awnn Droga tinha um erro, bem este é o codigo sagrado, leve ate as deusas!!";0;"A) @Column";17
+136;"FABRÍCIO: Boa não tinha visto, Este é o codigo sagrado, leve ate as deusas!!";1;"B) @id";17
+137;"FABRÍCIO: Awnn Droga tinha um erro, bem este é o codigo sagrado, leve ate as deusas!!";0;"C) @Override";17
+138;"FABRÍCIO: Awnn Droga tinha um erro, bem este é o codigo sagrado, leve ate as deusas!!";0;"D) @Entity";17
+139;"GERALDO: Bom,nos acompanhe,vamos te levar até o código sagrado.";1;"A) V,F,F,V,F";16
+140;"GERALDO: Errou... mas deusas que te mandaram aqui e temos uma missão,nos acompanhe até o código.";0;"B) V,V,F,F,V";16
+141;"GERALDO: Errou... mas deusas que te mandaram aqui e temos uma missão,nos acompanhe até o código.";0;"C) F,F,F,V,V";16
+142;"GERALDO: Errou... mas deusas que te mandaram aqui e temos uma missão,nos acompanhe até o código.";0;"D) V,V,F,V,F";16
+84;"É você errou mas vai ter que ser isso mesmo...";0;"A)Classes
+";6
+85;"É você errou mas vai ter que ser isso mesmo...";0;"B)Herança
+";6
+86;"É você errou mas vai ter que ser isso mesmo...";0;"C)Polimorfismo
+
+";6
+87;"É realmente é você o escolhido parabens!!";1;"D)Laços de repetição
+";6
+88;"MARCELO: Minhas deusas, você conseguiu !!";1;"ApsJogo aps = new ApsJogo();";8
